@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+    max-width: 50%; 
+    height: 50vh; 
+    margin: auto; 
+    
+
+}
+
+div {
+    background-color: bisque;
+    padding: 20px;
+    margin: 50px auto;
+}
+
+img { 
+    height:10rem;
+    border-radius: 50px;
+    display: block;
+    margin: 20px auto;
+    
+}
+
+p {
+    margin: 20px auto;
+    font-size: 2rem;
+    color: #ff0980;
+}
